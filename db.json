@@ -1,0 +1,20 @@
+{
+"tabs": [
+    {
+      "title": 1,
+      "text": "hello 1"
+    },
+    {
+      "title": 2,
+      "text": "hello 2"
+    },
+    {
+      "title": 3,
+      "text": "hello 3"
+    },
+    {
+      "title": 4,
+      "text": "hello 4"
+    }
+  ]
+}
